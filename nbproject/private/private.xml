@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/matoorn/Documents/NetBeansProjects/WebApplicationMQ/src/java/ds/jms/examples/JMSService.java</file>
+            <file>file:/C:/Users/matoorn/Documents/NetBeansProjects/WebApplicationMQ/src/java/ds/jms/examples/client/ReceiveMessage.java</file>
+            <file>file:/C:/Users/matoorn/Documents/NetBeansProjects/WebApplicationMQ/src/java/ds/jms/wildfly/examples/model/Customer.java</file>
+            <file>file:/C:/Users/matoorn/Documents/NetBeansProjects/WebApplicationMQ/src/java/ds/jms/examples/client/WildFlyJmsQueueReceive.java</file>
+            <file>file:/C:/Users/matoorn/Documents/NetBeansProjects/WebApplicationMQ/src/java/ds/jms/examples/client/SendMessage.java</file>
+            <file>file:/C:/Users/matoorn/Documents/NetBeansProjects/WebApplicationMQ/src/java/ds/jms/examples/client/WildFlyJmsQueueSender.java</file>
+            <file>file:/C:/Users/matoorn/Documents/NetBeansProjects/WebApplicationMQ/src/java/ds/jms/examples/client/BuilderFactory.java</file>
+            <file>file:/C:/Users/matoorn/Documents/NetBeansProjects/WebApplicationMQ/src/java/ds/jms/examples/HelloWorldJMSClient.java</file>
+            <file>file:/C:/Users/matoorn/Documents/NetBeansProjects/WebApplicationMQ/src/java/ds/jms/wildfly/examples/ConsumerMessageListener.java</file>
+            <file>file:/C:/Users/matoorn/Documents/NetBeansProjects/WebApplicationMQ/src/java/ds/jms/wildfly/examples/HelloWorldJMSClient10.java</file>
+        </group>
+        <group name="RMI Assignment">
+            <file>file:/Users/szabolcsnagy/Downloads/complete/WebApplicationMQ/src/java/ds/jms/examples/client/SendMessage.java</file>
+            <file>file:/Users/szabolcsnagy/Downloads/complete/WebApplicationMQ/src/java/ds/jms/examples/client/ReceiveMessage.java</file>
+            <file>file:/Users/szabolcsnagy/Downloads/complete/WebApplicationMQ/src/java/ds/jms/examples/client/BuilderFactory.java</file>
+        </group>
+        <group name="WebApplicationMQ"/>
+    </open-files>
+</project-private>
